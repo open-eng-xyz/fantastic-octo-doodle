@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "TPS25730AREFR") (type "KiCad") (uri "${KIPRJMOD}/libs/TPS25730AREFR/2026-11-18_16-46-27.kicad_sym") (options "") (descr ""))
+)

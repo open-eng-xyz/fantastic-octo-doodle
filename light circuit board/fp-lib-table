@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "TPS25730AREFR") (type "KiCad") (uri "${KIPRJMOD}/libs/TPS25730AREFR/footprints.pretty") (options "") (descr ""))
+)
